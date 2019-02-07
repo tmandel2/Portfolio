@@ -1,12 +1,56 @@
-body {
-	background-color: azure;
-	text-align: center;
+html {
+  background: url("../images/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  overflow: scroll;
 }
 
-li {
-	list-style: none;
+body {
+	background: none;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	color: white;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px black;
+}
+
+h1 {
+	font-size: 80px
+}
+
+p {
+	font-size: 18px;
+	background-color: gray;
+}
+
+a {
+	text-shadow: 1px 1px 2px black;
+}
+
+nav {
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	z-index: 1;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 70px;
+  text-align: right;
+  text-decoration: none;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  padding-top: 0;
 }
 
 .limitheight {
 	height: 100%;
 }
+
+
+
+
+
+
+
