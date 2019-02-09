@@ -38,14 +38,13 @@ nav {
 	flex-flow: column;
 	position: fixed;
 	top: 20px;
-	left: 20px;
+	left: 2%;
 	z-index: 1;
 }
 
 .fa {
   padding: 20px;
   font-size: 50px;
-  width: 70px;
   text-align: right;
   text-decoration: none;
   color: white;
@@ -88,7 +87,7 @@ nav {
 	display: flex;
 	align-items: center;
 	width: 80%;
-	margin: 5px auto;
+	margin: 10px auto;
 }
 
 .screenshot {
