@@ -54,7 +54,7 @@ nav {
   text-align: right;
   text-decoration: none;
   color: white;
-  text-shadow: 1px 1px 2px black;
+  text-shadow: 1px 1px 2px black, 2px 2px 4px red, 3px 3px 6px yellow;
   padding-top: 0;
 }
 
