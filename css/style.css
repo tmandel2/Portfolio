@@ -27,7 +27,13 @@ h2 {
 	width: 60%;
 }
 
-h1, h2 {
+h5 {
+	width: 60%;
+	text-shadow: 2px 2px 4px black;
+	margin-top: -20px;
+}
+
+h1, h2, h5 {
 	margin-right: auto;
 	margin-left: auto;
 	background-color: rgba(0, 0, 0, .7);
